@@ -46,7 +46,7 @@ apt-get -y install wget screen
 #### Download Source and Install
 
 ```bash
-wget https://raw.githubusercontent.com/sshadowrocket/ois/main/full/oneinstack-full.tar.gz
+wget https://github.com/sshadowrocket/ois/releases/download/ois2.6.1/oneinstack-full.tar.gz
 tar xzf oneinstack-full.tar.gz
 cd oneinstack
 ```
